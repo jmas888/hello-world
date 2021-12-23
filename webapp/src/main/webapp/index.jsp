@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning mubeen </h1>
+   <h1> Thankyou, Happy Learning updated h1 from gitbash </h1>
 
   
 </form>
